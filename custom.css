@@ -1,0 +1,22 @@
+*{
+    font-family: sans-serif;
+}
+.custom{
+    background: #bc0e0e;
+    font-weight: bold;
+    
+}
+a {
+    text-decoration: none;
+    
+}
+.navbar .navbar-nav a{
+    color: white;
+}
+.custom-color{
+    color: white;
+}
+.logo{
+    height: 60px;
+    width: 60px;
+}
